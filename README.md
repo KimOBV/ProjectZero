@@ -1,2 +1,3 @@
 # ProjectZero
-Filmapper opprettet
+Created Folders
+Added .js, .css and a gif to said folders
